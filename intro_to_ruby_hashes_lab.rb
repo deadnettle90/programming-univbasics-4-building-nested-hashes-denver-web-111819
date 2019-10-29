@@ -34,7 +34,13 @@ def monopoly_with_third_tier
 	      :rent_three => "",
 	      :rent_four => "",
 	    },
-	    :names => ""
+	    :names => {
+	      :one => "",
+	      :two => "",
+	      :three => "",
+	      :four => ""
+	      
+	    }
 	  }
 	}
 end
